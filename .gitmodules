@@ -1,3 +1,6 @@
 [submodule "src/LedUtils"]
 	path = src/LedUtils
 	url = https://github.com/BaileyMulhern/LedUtils.git
+[submodule "src/LedUtilities"]
+	path = src/LedUtilities
+	url = https://github.com/BaileyMulhern/LedUtilities.git
